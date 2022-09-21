@@ -22,13 +22,9 @@
 
 ## 说明
 
-灵感来源是项目[Keldos-Li](https://github.com/Keldos-Li)/**[typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)**，但我并不认为这个模板的格式符合ZJU要求。自己改了一个多小时的封面HTML后放弃了，投奔Word怀抱！
-
-
-
 模板默认的标题并非合理的论文模块划分，请自选论文架构。
 
-模板不符合课程要求的，可自行修改。
+不同课程可能要求不同模板，可自行修改。
 
 ## 作者
 
